@@ -7,7 +7,7 @@ print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 print ("\n*----------*    *------------* ")
 print ("|   Made   |    | Rock       | ")
 print ("|    by    |    |  Paper     | ")
-print ("| Martin A |    |   Scissors | ")
+print ("|   Darth  |    |   Scissors | ")
 print ("*----------*    *------------* ")
 print ()
 print ("===============================")
